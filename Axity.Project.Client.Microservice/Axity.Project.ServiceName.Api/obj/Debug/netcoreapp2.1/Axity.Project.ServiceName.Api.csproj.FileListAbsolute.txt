@@ -1,0 +1,60 @@
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/obj/Debug/netcoreapp2.1/Axity.Project.ServiceName.Api.csproj.CoreCompileInputs.cache
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/obj/Debug/netcoreapp2.1/Axity.Project.ServiceName.Api.AssemblyInfoInputs.cache
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/obj/Debug/netcoreapp2.1/Axity.Project.ServiceName.Api.AssemblyInfo.cs
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.1/Axity.Project.ServiceName.Api.deps.json
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.1/Axity.Project.ServiceName.Api.runtimeconfig.json
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.1/Axity.Project.ServiceName.Api.runtimeconfig.dev.json
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.1/Axity.Project.ServiceName.Api.dll
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/obj/Debug/netcoreapp2.1/Axity.Project.ServiceName.Api.csprojAssemblyReference.cache
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/obj/Debug/netcoreapp2.1/Axity.Project.ServiceName.Api.RazorAssemblyInfo.cache
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/obj/Debug/netcoreapp2.1/Axity.Project.ServiceName.Api.RazorAssemblyInfo.cs
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/obj/Debug/netcoreapp2.1/Axity.Project.ServiceName.Api.RazorTargetAssemblyInfo.cache
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.1/Axity.Project.ServiceName.Api.pdb
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/obj/Debug/netcoreapp2.1/Axity.Project.ServiceName.Api.dll
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/obj/Debug/netcoreapp2.1/Axity.Project.ServiceName.Api.pdb
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.1/Axity.Project.ServiceName.Infrastructure.dll
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.1/Axity.Project.ServiceName.Persistence.dll
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.1/Axity.Project.ServiceName.Infrastructure.pdb
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.1/Axity.Project.ServiceName.Persistence.pdb
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/obj/Debug/netcoreapp2.1/Axity.Project.ServiceName.Api.csproj.CopyComplete
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.1/Axity.Project.ServiceName.Api.xml
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.0/netcoreapp2.1/Axity.Project.ServiceName.Api.deps.json
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.0/netcoreapp2.1/Axity.Project.ServiceName.Api.runtimeconfig.json
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.0/netcoreapp2.1/Axity.Project.ServiceName.Api.runtimeconfig.dev.json
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.0/netcoreapp2.1/Axity.Project.ServiceName.Api.dll
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.0/netcoreapp2.1/Axity.Project.ServiceName.Api.pdb
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.0/netcoreapp2.1/Axity.Project.ServiceName.Api.xml
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.0/netcoreapp2.1/Axity.Project.ServiceName.Infrastructure.dll
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.0/netcoreapp2.1/Axity.Project.ServiceName.Persistence.dll
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.0/netcoreapp2.1/Axity.Project.ServiceName.Infrastructure.pdb
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.0/netcoreapp2.1/Axity.Project.ServiceName.Persistence.pdb
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.1/netcoreapp2.1/Axity.Project.ServiceName.Api.deps.json
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.1/netcoreapp2.1/Axity.Project.ServiceName.Api.runtimeconfig.json
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.1/netcoreapp2.1/Axity.Project.ServiceName.Api.runtimeconfig.dev.json
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.1/netcoreapp2.1/Axity.Project.ServiceName.Api.dll
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.1/netcoreapp2.1/Axity.Project.ServiceName.Api.pdb
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.1/netcoreapp2.1/Axity.Project.ServiceName.Api.xml
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.1/netcoreapp2.1/Axity.Project.ServiceName.Infrastructure.dll
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.1/netcoreapp2.1/Axity.Project.ServiceName.Persistence.dll
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.1/netcoreapp2.1/Axity.Project.ServiceName.Infrastructure.pdb
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.1/netcoreapp2.1/Axity.Project.ServiceName.Persistence.pdb
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.1/netcoreapp2.1/Axity.Project.ServiceName.Api.deps.json
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.1/netcoreapp2.1/Axity.Project.ServiceName.Api.runtimeconfig.json
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.1/netcoreapp2.1/Axity.Project.ServiceName.Api.runtimeconfig.dev.json
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.1/netcoreapp2.1/Axity.Project.ServiceName.Api.dll
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.1/netcoreapp2.1/Axity.Project.ServiceName.Api.pdb
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.1/netcoreapp2.1/Axity.Project.ServiceName.Api.xml
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.1/netcoreapp2.1/Axity.Project.ServiceName.Infrastructure.dll
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.1/netcoreapp2.1/Axity.Project.ServiceName.Persistence.dll
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.1/netcoreapp2.1/Axity.Project.ServiceName.Infrastructure.pdb
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/bin/Debug/netcoreapp2.1/netcoreapp2.1/Axity.Project.ServiceName.Persistence.pdb
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/obj/Debug/netcoreapp2.1/Axity.Project.ServiceName.Api.csprojAssemblyReference.cache
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/obj/Debug/netcoreapp2.1/Axity.Project.ServiceName.Api.csproj.CoreCompileInputs.cache
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/obj/Debug/netcoreapp2.1/Axity.Project.ServiceName.Api.RazorAssemblyInfo.cache
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/obj/Debug/netcoreapp2.1/Axity.Project.ServiceName.Api.RazorAssemblyInfo.cs
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/obj/Debug/netcoreapp2.1/Axity.Project.ServiceName.Api.AssemblyInfoInputs.cache
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/obj/Debug/netcoreapp2.1/Axity.Project.ServiceName.Api.AssemblyInfo.cs
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/obj/Debug/netcoreapp2.1/Axity.Project.ServiceName.Api.RazorTargetAssemblyInfo.cache
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/obj/Debug/netcoreapp2.1/Axity.Project.ServiceName.Api.csproj.CopyComplete
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/obj/Debug/netcoreapp2.1/Axity.Project.ServiceName.Api.dll
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Api/obj/Debug/netcoreapp2.1/Axity.Project.ServiceName.Api.pdb

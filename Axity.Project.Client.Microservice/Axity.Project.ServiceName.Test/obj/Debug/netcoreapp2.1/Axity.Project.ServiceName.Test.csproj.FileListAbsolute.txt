@@ -1,0 +1,38 @@
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/bin/Debug/netcoreapp2.1/Axity.Project.ServiceName.Test.deps.json
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/bin/Debug/netcoreapp2.1/Axity.Project.ServiceName.Test.runtimeconfig.json
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/bin/Debug/netcoreapp2.1/Axity.Project.ServiceName.Test.runtimeconfig.dev.json
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/bin/Debug/netcoreapp2.1/Axity.Project.ServiceName.Test.dll
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/bin/Debug/netcoreapp2.1/Axity.Project.ServiceName.Infrastructure.dll
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/bin/Debug/netcoreapp2.1/Axity.Project.ServiceName.Persistence.dll
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/bin/Debug/netcoreapp2.1/Axity.Project.ServiceName.Infrastructure.pdb
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/bin/Debug/netcoreapp2.1/Axity.Project.ServiceName.Persistence.pdb
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/obj/Debug/netcoreapp2.1/Axity.Project.ServiceName.Test.csprojAssemblyReference.cache
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/obj/Debug/netcoreapp2.1/Axity.Project.ServiceName.Test.csproj.CoreCompileInputs.cache
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/obj/Debug/netcoreapp2.1/Axity.Project.ServiceName.Test.AssemblyInfoInputs.cache
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/obj/Debug/netcoreapp2.1/Axity.Project.ServiceName.Test.AssemblyInfo.cs
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/obj/Debug/netcoreapp2.1/Axity.Project.ServiceName.Test.csproj.CopyComplete
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/bin/Debug/netcoreapp2.1/Axity.Project.ServiceName.Test.pdb
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/obj/Debug/netcoreapp2.1/Axity.Project.ServiceName.Test.dll
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/obj/Debug/netcoreapp2.1/Axity.Project.ServiceName.Test.pdb
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/bin/Debug/netcoreapp2.1/Axity.Project.ServiceName.Test.deps.json
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/bin/Debug/netcoreapp2.1/Axity.Project.ServiceName.Test.runtimeconfig.json
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/bin/Debug/netcoreapp2.1/Axity.Project.ServiceName.Test.runtimeconfig.dev.json
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/bin/Debug/netcoreapp2.1/Axity.Project.ServiceName.Test.dll
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/bin/Debug/netcoreapp2.1/Axity.Project.ServiceName.Test.pdb
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/bin/Debug/netcoreapp2.1/Axity.Project.ServiceName.Infrastructure.dll
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/bin/Debug/netcoreapp2.1/Axity.Project.ServiceName.Persistence.dll
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/bin/Debug/netcoreapp2.1/Axity.Project.ServiceName.Infrastructure.pdb
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/bin/Debug/netcoreapp2.1/Axity.Project.ServiceName.Persistence.pdb
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/obj/Debug/netcoreapp2.1/Axity.Project.ServiceName.Test.csprojAssemblyReference.cache
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/obj/Debug/netcoreapp2.1/Axity.Project.ServiceName.Test.csproj.CoreCompileInputs.cache
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/obj/Debug/netcoreapp2.1/Axity.Project.ServiceName.Test.AssemblyInfoInputs.cache
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/obj/Debug/netcoreapp2.1/Axity.Project.ServiceName.Test.AssemblyInfo.cs
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/obj/Debug/netcoreapp2.1/Axity.Project.ServiceName.Test.csproj.CopyComplete
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/obj/Debug/netcoreapp2.1/Axity.Project.ServiceName.Test.dll
+/Users/alex/Downloads/Axity.Project.Client.Microservice/Axity.Project.ServiceName.Test/obj/Debug/netcoreapp2.1/Axity.Project.ServiceName.Test.pdb
