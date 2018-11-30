@@ -8,6 +8,8 @@ namespace Axity.Project.ServiceName.Api.Controllers
 {
     using System;
     using System.Threading.Tasks;
+    using Axity.Project.ServiceName.Infrastructure;
+    using Axity.Project.ServiceName.Infrastructure.DTO;
     using Axity.Project.ServiceName.Infrastructure.Services;
     using Microsoft.AspNetCore.Mvc;
 
@@ -15,11 +17,11 @@ namespace Axity.Project.ServiceName.Api.Controllers
     [ApiController]
     public class UsersController : ControllerBase
     {
-        private readonly IUsersService _usersService;
+        private readonly ILogicFacade _logicFacade;
 
-        public UsersController(IUsersService usersService)
+        public UsersController(ILogicFacade logicFacade)
         {
-            _usersService = usersService ?? throw new ArgumentNullException(nameof(usersService));
+            _logicFacade = logicFacade ?? throw new ArgumentNullException(nameof(logicFacade));
         }
 
         //GET api/v1/[controller]/
@@ -28,7 +30,7 @@ namespace Axity.Project.ServiceName.Api.Controllers
         //[ProducesResponseType(typeof(List<Locations>), (int)HttpStatusCode.OK)]
         public async Task<IActionResult> Get()
         {
-            var locations = await _usersService.GetAllUsersAsync();
+            var locations = await _logicFacade.GetListUsersActive();
             return Ok(locations);
         }
 
@@ -38,8 +40,16 @@ namespace Axity.Project.ServiceName.Api.Controllers
         //[ProducesResponseType(typeof(UserLocation), (int)HttpStatusCode.OK)]
         public async Task<IActionResult> Get(int userId)
         {
-            var userLocation = await _usersService.GetUserAsync(userId);
+            var userLocation = await _logicFacade.GetListUserActive(userId);
             return Ok(userLocation);
+        }
+
+        [HttpPost]
+        //[ProducesResponseType(typeof(UserDto), (int)HttpStatusCode.OK)]
+        public async Task<IActionResult> Post([FromBody] UserDto user)
+        {
+            await _logicFacade.InsertUser(user);
+            return Ok();
         }
     }
 }

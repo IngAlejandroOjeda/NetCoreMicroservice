@@ -8,6 +8,7 @@ namespace Axity.Project.ServiceName.Test.Infrastructure.Services
 {
     using System.Collections.Generic;
     using System.Linq;
+    using Axity.Project.ServiceName.Infrastructure;
     using Axity.Project.ServiceName.Infrastructure.Repositories;
     using Axity.Project.ServiceName.Infrastructure.Services;
     using Axity.Project.ServiceName.Persistence;

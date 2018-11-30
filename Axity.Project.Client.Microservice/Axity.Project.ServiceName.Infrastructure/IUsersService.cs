@@ -4,7 +4,7 @@
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------
 
-namespace Axity.Project.ServiceName.Infrastructure.Services
+namespace Axity.Project.ServiceName.Infrastructure
 {
     using System.Collections.Generic;
     using System.Threading.Tasks;
@@ -15,5 +15,7 @@ namespace Axity.Project.ServiceName.Infrastructure.Services
         Task<IEnumerable<User>> GetAllUsersAsync();
 
         Task<User> GetUserAsync(int userId);
+
+        Task InsertUser(User user);
     }
 }

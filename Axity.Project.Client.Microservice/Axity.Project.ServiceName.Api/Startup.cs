@@ -1,4 +1,6 @@
-﻿using Axity.Project.ServiceName.Infrastructure.Repositories;
+﻿using AutoMapper;
+using Axity.Project.ServiceName.Infrastructure;
+using Axity.Project.ServiceName.Infrastructure.Repositories;
 using Axity.Project.ServiceName.Infrastructure.Services;
 using Axity.Project.ServiceName.Persistence;
 using Microsoft.AspNetCore.Builder;
@@ -24,9 +26,11 @@ namespace Axity.Project.ServiceName.Api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+            services.AddAutoMapper();
 
             services.AddTransient<IUsersRepository, UsersRepository>();
             services.AddTransient<IUsersService, UsersService>();
+            services.AddTransient<ILogicFacade, LogicFacade>();
 
             //var connection = @"Server=192.168.0.16;Database=ArchetypeDB;user id=sa;password=solmary150183";
             var connection = @"server=localhost;User Id=root;Password=;Database=test";

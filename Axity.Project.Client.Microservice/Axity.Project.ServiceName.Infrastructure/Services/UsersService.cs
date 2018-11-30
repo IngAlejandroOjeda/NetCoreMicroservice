@@ -30,5 +30,10 @@ namespace Axity.Project.ServiceName.Infrastructure.Services
         {
             return await _locationsRepository.GetUserAsync(userId);
         }
+
+        public async Task InsertUser(User user)
+        {
+            var temp = await Task.FromResult(true);
+        }
     }
 }
